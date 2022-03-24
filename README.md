@@ -1,4 +1,5 @@
-# vpc
+# VPC Module
+This module is able to provide infrastructure to Virtual Private Network.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
