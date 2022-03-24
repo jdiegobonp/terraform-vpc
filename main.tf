@@ -118,7 +118,7 @@ resource "aws_route_table" "public" {
   tags = merge(
     {
       "Name" = "rtb-${var.project}-${var.environment}"
-    },
+        },
     var.tags,
   )
 }
